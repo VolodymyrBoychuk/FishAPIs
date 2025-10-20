@@ -1,0 +1,314 @@
+sessions += [
+    {
+        "session_id": "2025-08-10-003",
+        "date": "2025-08-10",
+        "location": {
+            "name": "Desna River",
+            "coordinates": {
+                "latitude": 51.0412,
+                "longitude": 30.9784
+            }
+        },
+        "fishing_rods": 2,
+        "bait": ["worm", "boilies"],
+        "catches": [
+            {
+                "species": "carp",
+                "weight_kg": 3.2,
+                "length_cm": 70,
+                "time": "06:50"
+            },
+            {
+                "species": "bream",
+                "weight_kg": 1.0,
+                "length_cm": 40,
+                "time": "08:15"
+            }
+        ],
+        "notes": "Warm morning, slow start but picked up after sunrise"
+    },
+    {
+        "session_id": "2025-07-25-004",
+        "date": "2025-07-25",
+        "location": {
+            "name": "Dnipro Reservoir",
+            "coordinates": {
+                "latitude": 48.4500,
+                "longitude": 35.0500
+            }
+        },
+        "fishing_rods": 3,
+        "bait": ["corn", "dough"],
+        "catches": [
+            {
+                "species": "carp",
+                "weight_kg": 4.8,
+                "length_cm": 76,
+                "time": "07:20"
+            },
+            {
+                "species": "roach",
+                "weight_kg": 0.4,
+                "length_cm": 20,
+                "time": "08:00"
+            }
+        ],
+        "notes": "Light wind, perfect conditions"
+    },
+    {
+        "session_id": "2025-07-10-005",
+        "date": "2025-07-10",
+        "location": {
+            "name": "Lake Synevyr",
+            "coordinates": {
+                "latitude": 48.6317,
+                "longitude": 23.6926
+            }
+        },
+        "fishing_rods": 1,
+        "bait": ["fly lure"],
+        "catches": [
+            {
+                "species": "trout",
+                "weight_kg": 1.2,
+                "length_cm": 34,
+                "time": "06:40"
+            }
+        ],
+        "notes": "Clear mountain water, early bite only"
+    },
+    {
+        "session_id": "2025-06-15-006",
+        "date": "2025-06-15",
+        "location": {
+            "name": "Ros River",
+            "coordinates": {
+                "latitude": 49.4284,
+                "longitude": 31.9895
+            }
+        },
+        "fishing_rods": 2,
+        "bait": ["maggot", "worm"],
+        "catches": [
+            {
+                "species": "perch",
+                "weight_kg": 0.6,
+                "length_cm": 23,
+                "time": "07:30"
+            },
+            {
+                "species": "pike",
+                "weight_kg": 2.0,
+                "length_cm": 60,
+                "time": "08:45"
+            }
+        ],
+        "notes": "Muddy water after recent rain"
+    },
+    {
+        "session_id": "2025-06-01-007",
+        "date": "2025-06-01",
+        "location": {
+            "name": "Lake Lebedyn",
+            "coordinates": {
+                "latitude": 50.5772,
+                "longitude": 34.4938
+            }
+        },
+        "fishing_rods": 1,
+        "bait": ["bread"],
+        "catches": [
+            {
+                "species": "crucian carp",
+                "weight_kg": 0.5,
+                "length_cm": 24,
+                "time": "09:00"
+            },
+            {
+                "species": "tench",
+                "weight_kg": 1.3,
+                "length_cm": 39,
+                "time": "10:30"
+            }
+        ],
+        "notes": "Sunny day, very quiet lake"
+    },
+    {
+        "session_id": "2025-05-20-008",
+        "date": "2025-05-20",
+        "location": {
+            "name": "Southern Bug River",
+            "coordinates": {
+                "latitude": 47.0186,
+                "longitude": 31.9934
+            }
+        },
+        "fishing_rods": 2,
+        "bait": ["corn", "boilies"],
+        "catches": [
+            {
+                "species": "carp",
+                "weight_kg": 5.5,
+                "length_cm": 82,
+                "time": "06:10"
+            }
+        ],
+        "notes": "Excellent session, caught a big one early"
+    },
+    {
+        "session_id": "2025-05-03-009",
+        "date": "2025-05-03",
+        "location": {
+            "name": "Lake Ternopil",
+            "coordinates": {
+                "latitude": 49.5535,
+                "longitude": 25.5948
+            }
+        },
+        "fishing_rods": 2,
+        "bait": ["worm"],
+        "catches": [
+            {
+                "species": "bream",
+                "weight_kg": 1.2,
+                "length_cm": 43,
+                "time": "07:45"
+            },
+            {
+                "species": "perch",
+                "weight_kg": 0.7,
+                "length_cm": 26,
+                "time": "09:20"
+            }
+        ],
+        "notes": "Lots of small fish activity"
+    },
+    {
+        "session_id": "2025-04-18-010",
+        "date": "2025-04-18",
+        "location": {
+            "name": "Siverskyi Donets River",
+            "coordinates": {
+                "latitude": 49.4402,
+                "longitude": 36.9986
+            }
+        },
+        "fishing_rods": 3,
+        "bait": ["maggot", "corn"],
+        "catches": [
+            {
+                "species": "carp",
+                "weight_kg": 3.9,
+                "length_cm": 74,
+                "time": "06:30"
+            },
+            {
+                "species": "roach",
+                "weight_kg": 0.3,
+                "length_cm": 19,
+                "time": "08:10"
+            }
+        ],
+        "notes": "Strong current but manageable"
+    },
+    {
+        "session_id": "2025-03-30-011",
+        "date": "2025-03-30",
+        "location": {
+            "name": "Khortytsia Island",
+            "coordinates": {
+                "latitude": 47.8489,
+                "longitude": 35.1433
+            }
+        },
+        "fishing_rods": 1,
+        "bait": ["dough"],
+        "catches": [
+            {
+                "species": "crucian carp",
+                "weight_kg": 0.4,
+                "length_cm": 22,
+                "time": "09:15"
+            }
+        ],
+        "notes": "Short session, not many bites"
+    },
+    {
+        "session_id": "2025-03-10-012",
+        "date": "2025-03-10",
+        "location": {
+            "name": "Lake Shatsk",
+            "coordinates": {
+                "latitude": 51.5020,
+                "longitude": 23.9330
+            }
+        },
+        "fishing_rods": 2,
+        "bait": ["worm", "fly lure"],
+        "catches": [
+            {
+                "species": "pike",
+                "weight_kg": 3.3,
+                "length_cm": 68,
+                "time": "07:10"
+            },
+            {
+                "species": "perch",
+                "weight_kg": 0.6,
+                "length_cm": 25,
+                "time": "08:45"
+            }
+        ],
+        "notes": "Cool morning, fish active in shallow areas"
+    },
+    {
+        "session_id": "2025-02-21-013",
+        "date": "2025-02-21",
+        "location": {
+            "name": "Psel River",
+            "coordinates": {
+                "latitude": 50.1700,
+                "longitude": 34.2500
+            }
+        },
+        "fishing_rods": 1,
+        "bait": ["bloodworm"],
+        "catches": [
+            {
+                "species": "roach",
+                "weight_kg": 0.2,
+                "length_cm": 17,
+                "time": "10:00"
+            }
+        ],
+        "notes": "Cold, slow winter fishing"
+    },
+    {
+        "session_id": "2025-01-05-014",
+        "date": "2025-01-05",
+        "location": {
+            "name": "Frozen Pond (near Kyiv)",
+            "coordinates": {
+                "latitude": 50.4501,
+                "longitude": 30.5234
+            }
+        },
+        "fishing_rods": 1,
+        "bait": ["bloodworm"],
+        "catches": [
+            {
+                "species": "perch",
+                "weight_kg": 0.3,
+                "length_cm": 20,
+                "time": "11:30"
+            },
+            {
+                "species": "roach",
+                "weight_kg": 0.25,
+                "length_cm": 19,
+                "time": "12:15"
+            }
+        ],
+        "notes": "Ice fishing, light snow, decent results"
+    }
+]

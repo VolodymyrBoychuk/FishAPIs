@@ -1,0 +1,33 @@
+[
+  {
+    "session_id": "2025-08-10-003",
+    "date": "2025-08-10",
+    "location": {
+      "name": "Desna River",
+      "coordinates": {
+        "latitude": 51.0412,
+        "longitude": 30.9784
+      }
+    },
+    "fishing_rods": 2,
+    "bait": [
+      "worm",
+      "boilies"
+    ],
+    "catches": [
+      {
+        "species": "carp",
+        "weight_kg": 3.2,
+        "length_cm": 70.0,
+        "time": "06:50"
+      },
+      {
+        "species": "bream",
+        "weight_kg": 1.0,
+        "length_cm": 40.0,
+        "time": "08:15"
+      }
+    ],
+    "notes": "Warm morning, slow start but picked up after sunrise"
+  }
+]
