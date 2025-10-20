@@ -6,6 +6,7 @@
 
 ## 📦 Project Structure
 
+```
 FishAPIs/
 ├── app.py # Main Flask entry point
 ├── resources/ # Blueprints for sessions and statistics
@@ -16,6 +17,7 @@ FishAPIs/
 ├── Dockerfile # Docker image definition
 ├── docker-compose.yml # Container orchestration
 └── README.md # Project description
+```
 
 ---
 
